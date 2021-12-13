@@ -1,0 +1,1450 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<credits>
+  <section>
+    <title>%[LEGO UNIVERSE GAMING]</title>
+    <subsection>
+      <title>%[SERVER OWNER]</title>
+      <name>Carson Salonia</name>
+    </subsection>
+    <subsection>
+      <title>%[LEAD DEVELOPER]</title>
+      <name>Matthew August</name>
+    </subsection>
+    <subsection>
+      <title>%[LEGO UNIVERSE GAMING GRAPHICS ARTIST]</title>
+      <name>Carson Salonia</name>
+    </subsection>
+    <subsection>
+      <title>%[INSTALLER AND CLIENT]</title>
+      <name>Matthew August</name>
+    </subsection>
+    <subsection>
+      <title>%[BUG FIXING]</title>
+      <name>Carson Salonia</name>
+      <name>Matthew August</name>
+    </subsection>
+    <subsection>
+      <title>%[EARLY TESTERS]</title>
+      <name>Jonathan Case</name>
+      <name>Benedetto Sclafani</name>
+      <name>Grace McKinney</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[LEGO UNIVERSE ORIGINAL DEVELOPMENT TEAM]</title>
+    <subsection>
+      <title>%[UI_CREDITS_VP]</title>
+      <name>Jesper Vilstrup</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SRGDEVDIR]</title>
+      <name>Mark William Hansen</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SRGOPDIR]</title>
+      <name>Dan Elggren</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_DIRCHAMAN]</title>
+      <name>Ronny Scherer</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_GAMESYS]</title>
+    <subsection>
+      <title>%[UI_CREDITS_SRMAN]</title>
+      <name>Chris Sherland</name>
+    </subsection>    
+    <subsection>
+      <title>%[UI_CREDITS_PROJMAN]</title>
+      <name>Eric Carter</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_ASSPROJMANAGER]</title>
+      <name>Brandon Barski</name>
+    </subsection> 
+    <subsection>
+      <title>%[UI_CREDITS_DESMAN]</title>
+      <name>Daniel Witenberg</name>
+    </subsection>     
+    <subsection>
+      <title>%[UI_CREDITS_TECHDIR]</title>
+      <name>Erik Urdang</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_LEADPROGRAMMER]</title>
+      <name>Benjamin Tarr</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SRPROGRAMMER]</title>
+      <name>Ian Guthrie</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_PROGRAMMERS]</title>
+      <name>Kirk Baker</name>
+      <name>Shane Eraas</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_LDSYSDES]</title>
+      <name>Matthew Puccio</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SRSYSDES]</title>
+      <name>John Fomby</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SENIORUIDESIGNER]</title>
+      <name>Camille "Cami" Dodson</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_UIDESIGNER]</title>
+      <name>Colleen Nachtrieb</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_LEADARTIST]</title>
+      <name>Erik Beyer</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_QALEAD]</title>
+      <name>Mathieu Fortin</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_QATESTERS]</title>
+      <name>Daniel Paek</name>
+      <name>Nation Morath</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_IMAGINITE]</title>
+    <subsection>
+      <title>%[UI_CREDITS_SENIORPRODUCERLIVE]</title>
+      <name>Gareth Luke</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_DESMAN]</title>
+      <name>Mads Purup</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_LEADPROGRAMMERS]</title>
+      <name>Shane M. Clements</name>
+      <name>Chris Willis-Ford</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SRPROGRAMMER]</title>
+      <name>William Briggs</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_QATESTER]</title>
+      <name>Jacob Hansen</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_HONEY]</title>    
+    <subsection>
+      <title>%[UI_CREDITS_DESDIR]</title>
+      <name>Jordan Itkowitz</name>
+    </subsection>    
+    <subsection>
+      <title>%[UI_CREDITS_SENIORGDESIGN]</title>
+      <name>Brian Bearly</name>
+    </subsection>    
+    <subsection>
+      <title>%[UI_CREDITS_SRSYSDES]</title>
+      <name>Michael Edwards</name>
+    </subsection>    
+    <subsection>
+      <title>%[UI_CREDITS_SENIORLD]</title>
+      <name>Brandi Alotto</name>
+    </subsection>    
+    <subsection>
+      <title>%[UI_CREDITS_LEVELDESIGNER]</title>
+      <name>Austin Randall</name>
+    </subsection>    
+    <subsection>
+      <title>%[UI_CREDITS_DIGMODDES]</title>
+      <name>Duane Hess</name>
+    </subsection>    
+    <subsection>
+      <title>%[UI_CREDITS_PROGRAMMER]</title>
+      <name>James "Nic" Foster</name>
+    </subsection>    
+    <subsection>
+      <title>%[UI_CREDITS_LDWARTIST]</title>
+      <name>Brian Mullaney </name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_LEADARTIST]</title>
+      <name>Brett Nienburg</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_LEADFXARTIST]</title>
+      <name>Michael Talarico</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SENIORCONCEPTARTIST]</title>
+      <name>Jerry Meyer</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_ANIMATOR]</title>
+      <name>Blake Parson</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_UIARTIST]</title>
+      <name>Alexa Abrams</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_3DARTISTS]</title>
+      <name>Ellory Gillis-McGinnis</name>
+      <name>Michael Aviles</name>
+      <name>Sean Weilage</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_QATESTERS]</title>
+      <name>David Jackson</name>
+      <name>Jonah Pickens</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_WOLFPACK]</title>
+    <subsection>
+      <title>%[UI_CREDITS_LDGPDES]</title>
+      <name>Geoff Jones</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_LDTECHDES]</title>
+      <name>Michael Bermann</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_TECHDES]</title>
+      <name>Aaron Beechler</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SYSDES]</title>
+      <name>Dave W. Cross</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_LEVELDESIGNER]</title>
+      <name>Raymond Visner</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_PROGRAMMER]</title>
+      <name>Randall Furino</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_DIGMODDES]</title>
+      <name>Joel Hoornbeek</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_LDWARTIST]</title>
+      <name>Sean Brown</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_LEADCONCEPTARTIST]</title>
+      <name>Jim Stigall</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_CONCEPTARTIST]</title>
+      <name>Kyle Wheeler</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_ANIMATOR]</title>
+      <name>Cliff Ward</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_UIARTIST]</title>
+      <name>Kevin Cook</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_3DARTISTS]</title>
+      <name>Armando Durruthy</name>
+      <name>Jacqueline Evans</name>
+      <name>Daniel Montoya</name>
+      <name>Evan Williams</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_FXARTISTS]</title>
+      <name>Drew Goheen</name>
+      <name>Angelo Vildasol</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_QATESTERS]</title>
+      <name>RJ Jundt</name>
+      <name>Alexander Hansen</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_ARTDEV]</title>
+    <subsection>
+      <title>%[UI_CREDITS_MANAGER]</title>
+      <name>Micki Fjelgaard</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_AD]</title>
+      <name>Phillip Atencio</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_MEDIACOORD]</title>
+      <name>Christopher Brubaker</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_VIDEOPRODUCTION]</title>
+      <name>Ryan Baier</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_LEADUIARTIST]</title>
+      <name>Cassandra Brubaker</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_UIARTIST]</title>
+      <name>Keith Richards</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SENGRAPHICARTIST]</title>
+      <name>Brian Miller</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_ILLUSTRATOR]</title>
+      <name>Michael Rayhawk</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_3DMODELER]</title>
+      <name>William Lieberman</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_PROOFREADER]</title>
+      <name>Alyson Thomsen</name>
+    </subsection>
+  </section>   
+  <section>
+    <title>%[UI_CREDITS_PLATFORMDEV]</title>
+    <subsection>
+      <title>%[UI_CREDITS_LEADPROGRAMMER]</title>
+      <name>Nathan Gray</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SRPROGRAMMER]</title>
+      <name>Michael Starks</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_PROGRAMMER]</title>
+      <name>Megan Fox</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_QATESTER]</title>
+      <name>Steve Chester</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_TOOLS]</title>
+    <subsection>
+      <title>%[UI_CREDITS_LDTOOLSPROG]</title>
+      <name>Michael Jordan</name>
+    </subsection>    
+    <subsection>
+      <title>%[UI_CREDITS_PROGRAMMERS]</title>
+      <name>Ludwik Turzanski</name>
+      <name>Joseph "JT" Carmer</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_BUILDMASTER]</title>
+      <name>Darryll Rohr</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_QATESTER]</title>
+      <name>Steve Chester</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_LIVETEAM]</title>
+    <subsection>
+      <title>%[UI_CREDITS_SENIORPRODUCERLIVE]</title>
+      <name>Jacob Beucler</name>
+    </subsection>    
+    <subsection>
+      <title>%[UI_CREDITS_PROGRAMMER]</title>
+      <name>Allen Danklefsen</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_DBAD]</title>
+      <name>Jeffrey Ludwig</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_DBARCHITECT]</title>
+      <name>Steven Langmuir</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_QATESTER]</title>
+      <name>Daimi Mussey</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_RELEASEMAN]</title>
+    <subsection>
+      <title>%[UI_CREDITS_SRRELMAN]</title>
+      <name>Alicia Hall</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_RELCOORD]</title>
+      <name>Christopher Thigpen</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_HOSTING]</title>
+    <subsection>
+      <title>%[UI_CREDITS_DIR]</title>
+      <name>Pierre Mifsud</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_HOSTINGUSLEAD]</title>
+      <name>Patrick Bays</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SRSYSMAN]</title>
+      <name>Søren Strøm</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SRSYSENG]</title>
+      <name>Henrik Rolighed Andersen</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SRSYSENGOPS]</title>
+      <name>Lasse Thomsen</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SYSENG]</title>
+      <name>Billy Settlemire</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SRDBADMIN]</title>
+      <name>Adam Wilbur</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SRSYSADMIN]</title>
+      <name>Ivan Abrahamsen</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SRDBADMIN]</title>
+      <name>Rene Frank Jensby Kristiansen</name>
+    </subsection>
+    <subsection>
+     <title>%[UI_CREDITS_WINSYSMAN]</title>
+     <name>Anders Møller Andersen</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_INFORMATION]</title>
+    <subsection>
+      <title>%[UI_CREDITS_INFTECHDIR]</title>
+      <name>Matthew Kuenning</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SYSADMIN]</title>     
+      <name>Christopher Strickland</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_DESKSUPP]</title>
+      <name>Dan Simpson</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_ADMIN]</title>
+    <subsection>
+      <title>%[UI_CREDITS_OFFADMIN]</title>
+      <name>Sara Tyson</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_BUSSUPREC]</title>
+      <name>Joanna Davidson</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_PLOPS]</title>
+    <subsection>
+      <title>%[UI_CREDITS_PLOPSRMAN]</title>
+      <name>Zev Barsky</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SRINSANYMAN]</title>
+      <name>David Bible</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_REPMAN]</title>
+      <name>Adam Stearns</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_DATAMAN]</title>
+      <name>Joseph Spirko</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_COMMAN]</title>
+      <name>Kevin Goddard</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SRCOMPRODUCER]</title>
+      <name>Brian Johnson</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_COMMCOOR]</title>
+      <name>Annie Kang</name>
+      <name>Anne Sofie Kirkegaard</name>
+      <name>Phillip Schlagel</name>
+      <name>Gregory Mengel</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_CSSRDIR]</title>
+      <name>Sophie Patrikios</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_CSOPSMAN]</title>
+      <name>Andrew Clark</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_CSPRODMAN]</title>
+      <name>Karen Blevins</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SRINSANYMAN]</title>
+      <name>David Bible</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_CSSERCOORD]</title>
+      <name>Fabian Düngel</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SRMODMAN]</title>
+      <name>Mark Fothergill</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_MODTRAINMAN]</title>
+      <name>Jeannette Rohl</name>
+    </subsection>
+    <subsection>
+     <title>%[UI_CREDITS_MODSUP]</title>
+     <name>Ulrike Götze</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_MODOPSLEAD]</title>
+      <name>Greg Ranz</name>
+    </subsection>   
+    <subsection>
+      <title>%[UI_CREDITS_MODS]</title>
+      <name>Chloe Bjordahl</name>
+      <name>Kerstin G. Brooks</name>
+      <name>Stephen P. Chambers</name>
+      <name>Tamara Gschaider</name>
+      <name>Thomas Götze</name>
+      <name>Sandra Häberlein</name>
+      <name>Anni Luginbuehl</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_QADEP]</title>
+    <subsection>
+      <title>%[UI_CREDITS_SRQA]</title>
+      <name>Ed Hocking</name>
+      <name>Marianne Peschardt Assenholt</name>
+      <name>Jens Henrik Jensen</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_QALEADS]</title>
+      <name>Annette Rogers</name>
+      <name>Claus Damkjær Christensen</name>
+      <name>Paula Nazario</name>
+      <name>Lauren Kamieniecki</name>               
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_QAENGINEERS]</title>
+      <name>Brent Abbott</name>
+      <name>Bhavna Naurkarkar</name>
+      <name>Paul Christina</name>               
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_QATESTERS]</title>
+      <name>Carl Blum</name>
+      <name>Derek Livangood</name>
+      <name>Jamie Cannon</name>
+      <name>Jason Rancier</name> 
+      <name>Joseph Smits</name> 
+      <name>Marcus Garcia</name> 
+      <name>Mick Jundt</name> 
+      <name>Neil Pring</name> 
+      <name>Nick Vehanen</name>
+      <name>Shawn Pekas</name>  
+      <name>Tommy Van Meel</name>  
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_BABEL]</title>
+    <subsection>
+      <title>%[UI_CREDITS_BPM]</title>
+      <name>Sacha Plura</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_BABELQAC]</title>
+      <name>Tony Au</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_QALEADS]</title>
+      <name>Guillaume Duval</name>
+      <name>Robert Berube</name>               
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_QATESTERS]</title>
+      <name>Sukhdeep Kondal</name>
+      <name>Omar Ahmed</name>
+      <name>Erlvin Camat</name>
+      <name>Martin Thibault</name>
+      <name>Timothy Ambros</name>
+      <name>Jonathan Hanley</name>
+    </subsection>
+    <subsection> 
+      <title>%[UI_CREDITS_GERMLOC]</title>
+     <name>Sebastien Maeser</name>
+     <name>Hans Schumacher</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_WEBSOARCH]</title>
+    <subsection>
+      <title>%[UI_CREDITS_MANAGER]</title>
+      <name>Hans Rauff</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_LDSOLARCH]</title>
+      <name>Jørn Erik Jensen</name>
+    </subsection>
+    <subsection> 
+      <title>%[UI_CREDITS_SRSOLARCHITECTS]</title>
+     <name>Mario Juric</name>
+     <name>Per Østergaard</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SOLARCH]</title>
+      <name>Henrik Høj Madsen</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_WEBARCHPLAT]</title>
+    <subsection>
+      <title>%[UI_CREDITS_DIR]</title>
+      <name>Danny Bergmann</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_MARKETINGTEAM]</title>
+    <subsection>
+      <title>%[UI_CREDITS_SRMARKDIR]</title>
+      <name>Carsten Ahrenfeldt</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SRMARKMAN]</title>
+      <name>Anne-Marie Schroll</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_ASSTMARKMAN]</title>
+      <name>Myra Lind</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_PRODUCER]</title>
+      <name>Jesper Dichov Lund</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_BRDEVMAN]</title>
+      <name>Grace (Pui Sze) Wong</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_PRODINTEGMAN]</title>
+      <name>Niels Henrik Horsted</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_RESASS]</title>
+      <name>Torsten Bæk Poulsen</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_BUSASS]</title>
+      <name>Henrik Steen Krogh</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_PRCOMM]</title>
+    <subsection>
+      <title>%[UI_CREDITS_PRCOMMMAN]</title>
+      <name>Flemming Binderup Gammelgaard</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_PREVENTCOORD]</title>
+      <name>Marianne Winding</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_DARKFLAME]</title>
+    <subsection>
+      <title>%[UI_CREDITS_SENIORPRODUCERLIVE]</title>
+      <name>Jørgen Thomsen</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_DBDEV]</title>
+      <name>Henrik L. Steenhoff</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SRDEV]</title>
+      <name>Anders Godballe Hansen</name>
+      <name>Anders Pedersen</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_DEV]</title>
+      <name>Mads Spangsberg Kristensen</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SOFTTESTENG]</title>
+      <name>Flemming Mortensen</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_EXTCONS]</title>
+      <name>Poul Foged Nielsen</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_OVERBUILD]</title>
+    <subsection>
+      <title>%[UI_CREDITS_SENIORPRODUCERLIVE]</title>
+      <name>Dennis Bjorn Petersen</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SRDBDEV]</title>
+      <name>Anders Nygaard</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SRDEV]</title>
+      <name>Lasse Sjørup</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_DEV]</title>
+      <name>Lars Axberg</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SOFTTESTENG]</title>
+      <name>Torben Bubandt</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_EXTCONS]</title>
+      <name>Michael Scholer</name>
+      <name>Morten Krath</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_PROJUICE]</title>
+    <subsection>
+      <title>%[UI_CREDITS_PRODUCER]</title>
+      <name>Alan Baker</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_ASSPROD]</title>
+      <name>Anders Weien</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_LUONLINEPROD]</title>
+      <name>Michael Brorsen</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_WEBPROD]</title>
+      <name>Arianne Vena</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_ARTDIR]</title>
+      <name>Angel Delgado</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_EXTCONS]</title>
+      <name>Jeppe Dyrby</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_LEGO]</title>
+    <subsection>
+      <title>%[UI_CREDITS_EXVP]</title>
+      <name>Lisbeth Walther Pallesen</name>
+  </subsection>
+  <subsection>
+     <title>%[UI_CREDITS_PRMANDIR]</title>
+     <name>Torben Nielsen</name>
+  </subsection>
+  <subsection>
+     <title>%[UI_CREDITS_TECHMAN]</title>
+     <name>Bent Petz</name>
+  </subsection>
+  <subsection>
+     <title>%[UI_CREDITS_BUSCON]</title>
+     <name>Vivi Meidahl Højen</name>
+  </subsection>
+  <subsection>
+     <title>%[UI_CREDITS_SRMAN]</title>
+     <name>Hermann Kudlich</name>
+  </subsection>
+  <subsection>
+     <title>%[UI_CREDITS_PROJMANS]</title>
+     <name>Carl Bohn</name>
+     <name>Ditlev Frederik Wedell-Wedellsborg</name>
+     <name>Eik Thyrsted Brandsgaard</name>
+     <name>Carsten Brinch Larsen</name>
+     <name>Sydney Park</name>
+     <name>Claus Stilborg</name>
+     <name>Daniel W. Mathiasen</name>
+     <name>Gitte Grønborg</name>
+  </subsection>
+  <subsection>
+     <title>%[UI_CREDITS_SECNET]</title>
+     <name>Søren Brandbyge</name>
+  </subsection>
+  <subsection>
+     <title>%[UI_CREDITS_3DSOFTENG]</title>
+     <name>Klaus Legarth Christiansen</name>
+     <name>Lukasz Bruun</name>
+     <name>Bo Møller Kristensen</name>
+     <name>Rasmus Donbæk Knudsen</name>
+  </subsection>
+  <subsection>
+     <title>%[UI_CREDITS_BUSOPMAN]</title>
+     <name>Maria Luisa Franco</name>
+  </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_DEV]</title>
+      <name>Brian Jensen</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_3DMODEL]</title>
+      <name>Paw Max Andersen</name>
+      <name>Martin Lykke</name>
+    </subsection>  
+    <subsection>
+      <title>%[UI_CREDITS_JRPROJMAN]</title>
+      <name>Katja Petersen</name>
+    </subsection>
+  <subsection>
+     <title>%[UI_CREDITS_SRDBDEVS]</title>
+     <name>Ole Jørgensen</name>
+     <name>Michael Erhardsen</name>
+  </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SOFTTESTENG]</title>
+       <name>Frank Fristed Pedersen</name>
+       <name>Ali Djouahra</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SOFTTEST]</title>
+       <name>Tina Rasmussen</name>
+       <name>Kristina Lausen</name>
+    </subsection>
+   <subsection>
+      <title>%[UI_CREDITS_BUILDAPI]</title>
+      <name>Jesper Martin Erstvang</name>
+      <name>Jakob Sprogøe Jakobsen</name>
+      <name>Tue Jakobsen</name>
+   </subsection>
+   <subsection>
+      <title>%[UI_CREDITS_LEGAL]</title>
+      <name>Peter Kjær</name>
+      <name>Mette Merete Andersen</name>
+   </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_PICO]</title>
+    <subsection>
+       <title>%[UI_CREDITS_BEHDESCONS]</title>
+       <name>Brian Silverman</name>
+       <name>Paula Bontá</name>
+    </subsection>
+   </section>
+   <section>
+    <title>%[UI_CREDITS_3RDPARTY]</title>
+    <subsection>
+      <title>%[UI_CREDITS_RESEARCH]</title>
+      <name>Bridgette M. Braig (Braig Consulting)</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_LEGAL]</title>
+      <name>Scott Kannady (Brown and Kannady, LLC)</name>
+    </subsection>
+   </section>
+   <section>
+     <title>%[UI_CREDITS_ORPHIC]</title>
+     <subsection>
+       <title>%[UI_CREDITS_FOUND]</title>
+       <name>Richard Dekkard</name>
+   </subsection>    
+    <subsection>
+      <title>%[UI_CREDITS_AUDIOARTISTS]</title>
+      <name>Jonathan Canupp</name>
+      <name>Michael Jason Corder</name>
+      <name>Chris Seiffert</name>
+      <name>Joshua Smith</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_VOICE]</title>
+      <name>Sir Patrick Stewart</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SENIORAUDIOPROGRAMMER]</title>
+      <name>Eric Harms</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SCORE]</title>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_COMPOSER]</title>
+      <name>Brian Tyler</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_CONDUCTOR]</title>
+      <name>Allan Wilson</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_PERFBY]</title>
+      <name>The Slovak National Symphony Orchestra</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_ORCHBY]</title>
+      <name>Brian Tyler</name>
+      <name>Robert Elhai</name>
+      <name>Pakk Hui</name>
+      <name>Dana Niu</name>
+      <name>Brad Warnaar</name>
+      <name>Andrew Kinney</name>
+      <name>Jeff Toyne</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_ADDARR]</title>
+      <name>John Hartman</name>
+      <name>Matt Margeson</name>
+      <name>Pakk Hui</name>
+      <name>Keith Power</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_MEDITOR]</title>
+      <name>Gary L. Krause</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_RECENG]</title>
+      <name>Peter Fuchs</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_ASSENG]</title>
+      <name>Martin Roller</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SCOREREC]</title>
+      <name>The Slovak Radio Concert Hall</name>
+      <name>Bryan Tyler Studios</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_MIXBY]</title>
+      <name>Frank Wolf</name>
+      <name>Brian Tyler</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_MUSPREP]</title>
+      <name>Eric Stonerook</name>
+      <name>Vladimir Martinka</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_ORCHMAN]</title>
+      <name>Marian Talkington</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_RECMAN]</title>
+      <name>Paul Talkington</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_ASSBRI]</title>
+      <name>Eric Kalver</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_ADDCIN]</title>
+      <name>Doug Stewart</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_TRANSGAMING]</title>
+    <subsection>
+      <title>%[UI_CREDITS_TGAMING]</title>
+      <name>Alec Nickalls</name>
+      <name>Andrew Harmon</name>
+      <name>Angelo Italiano</name>
+      <name>Blair Yakimovich</name>
+      <name>Chris Spyropolous</name>
+      <name>Dan Bravender</name>
+      <name>Daniel Koch</name>
+      <name>Daniel Posner</name>
+      <name>David DePauw</name>
+      <name>Dennis Ensing</name>
+      <name>Ellie Malek</name>
+      <name>Eric Van Beurden</name>
+      <name>Gavriel State</name>
+      <name>James Helferty</name>       
+      <name>Jason Azevedo</name>
+      <name>Jason Gorski</name>
+      <name>Jason Green</name>
+      <name>Jonathan Yim</name>
+      <name>Kaushik Lohia</name>
+      <name>Ken Lashley</name>
+      <name>Lisa Seelye</name>
+      <name>Luis Gomez</name>
+      <name>Mark Adams</name>
+      <name>Mark Ng</name>
+      <name>Martin Korych</name>
+      <name>Matt Robinson</name>
+      <name>Nicolas Capens</name>
+      <name>Paul Hays</name>
+      <name>Paul Nesbit</name>
+      <name>Paul Nowosad</name>
+      <name>Philippe Casgrain</name>
+      <name>Robert Stepinski</name>
+      <name>Roman Kliotzkin</name>
+      <name>Sangeeta Mehta</name>
+      <name>Scott Guy</name>
+      <name>Seelan Vamatheva</name>
+      <name>Shannon Woods</name>
+      <name>Sunny Thakkar</name>
+      <name>Tim Burrell</name>
+      <name>Vikas Gupta</name>
+      <name>Wojtek Kawczynski</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_WBLTEAMS]</title>
+    <subsection>
+      <title>%[UI_CREDITS_ABSOFSTEEL]</title>
+      <name>Jeff Elliott (Lead)</name>
+      <name>Derek Raycraft</name>
+      <name>Jakob Bindslet</name>
+      <name>Pedro Figueiredo</name>
+      <name>Stephan Sander</name>
+      <name>Mike Gallagher</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_ATEAM]</title>
+      <name>Eric Kingsley (Lead)</name>
+      <name>Cale Liephart</name>
+      <name>Dan Kressin</name>
+      <name>Jeff Stabile</name>
+      <name>Joel Hoornbeek</name>
+      <name>Jonathan Dallas</name>
+      <name>Daniel Aubin</name>
+      <name>Elroy Davis</name>
+      <name>Jordan Swartz</name>
+      <name>Linda Nee</name>
+      <name>Luís Baixinho</name>
+      <name>Tim Gould</name>
+      <name>Matthew Harrington</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_BETABLOCKERS]</title>
+      <name>Christian Krützfeldt (Lead)</name>
+      <name>Peer Risch</name>
+      <name>Sven Reger</name>
+      <name>Tobias Reichling</name>
+      <name>Jan Zenzen</name>
+      <name>Johannes Koelher</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_BRICKAZONS]</title>
+      <name>Megan Rothrock (Lead)</name>
+      <name>Lasse Deleuran</name>
+      <name>Kathleen Aldinger</name>
+      <name>Jason Railton</name>
+      <name>Nina Chatelain</name>
+      <name>Teresa "Kitty" Elsmore</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_BRICKSNATCHERS]</title>
+      <name>Thomas Rafert (Lead)</name>
+      <name>Bram Lambrecht</name>
+      <name>Gary McIntire</name>
+      <name>Jeff Pelletier</name>
+      <name>Justin Major</name>
+      <name>Mark Neumann</name>
+      <name>Nathan Proudlove</name>
+      <name>Ryan Wood</name>
+      <name>Brendon Mauro</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_LDRAW]</title>
+      <name>Michael Heidemann (Lead)</name>
+      <name>Orion Pobursky</name>
+      <name>Willy Tschager</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_LUPTARIO]</title>
+      <name>Jeff Van Winden (Lead)</name>
+      <name>Jenn Wagner</name>
+      <name>Janey Gunning</name>
+      <name>Deborah Higdon</name>
+      <name>David Koudys</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SECTORSIX]</title>
+      <name>Steve Barker (Lead)</name>
+      <name>Gordon Hundeby</name>
+      <name>John Langrish</name>
+      <name>Allan Hundeby</name>
+      <name>Joseph Williams </name>
+      <name>Bryan Maenz </name>
+      <name>Robin Sather</name>
+      <name>Rodney Paananen </name>
+      <name>David Mosher</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_TEAMDEERBITE]</title>
+      <name>Joe Comeau (Lead)</name>
+      <name>Alfred Speredelozzi</name>
+      <name>Chris Dee</name>
+      <name>Dan Boger</name>
+      <name>David Gwon</name>
+      <name>Jorge Fernandez</name>
+      <name>Shaun Sullivan</name>
+      <name>Wayne McCaul</name>
+      <name>Tom Atkinson</name>
+      <name>Mike Crowley</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SPIRALTON]</title>
+      <name>Mark Stafford</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SPECIALTHANKS]</title>
+      <name>Melody Caddick</name>
+      <name>Ben Ellermann</name>
+      <name>Kevin Clague</name>
+      <name>Jeremy Taylor</name>
+      <name>Thomas Duggan</name>
+      <name>Diana Wong</name>
+      <name>Mladen Pejic</name>
+      <name>Ted Michon</name>
+      <name>Keith Goldman</name>
+      <name>Dave Eaton</name>
+      <name>Stuart Guarnieri</name>
+      <name>Geoff Gray</name>
+      <name>Steve Chiavelli</name>
+      <name>Doug Eaton</name>
+      <name>Andreas Weissenburg</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_PREVEMPLOY]</title>
+    <subsection>
+      <title>%[UI_CREDITS_PRES]</title>
+      <name>Scott Brown</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SAD]</title>
+      <name>Peter Grundy</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_CD]</title>
+      <name>Ryan Seabury</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_LEADLEVEL]</title>
+      <name>Tyler Chiocchio</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_LEADPROGRAMMER]</title>
+      <name>Ivan Woehr</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SENIORPROGRAMMERS]</title>
+      <name>Craig Ewert</name>
+      <name>Yu Tak Ting</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_PROGRAMMERS]</title>
+      <name>Stephen Calender</name>
+      <name>Ian Hall</name>
+      <name>Devon James</name>
+      <name>Charles Roman</name>
+      <name>Jeffrey Sass</name>
+      <name>Josh Stefanski</name>
+      <name>Dallas Stowasser</name>
+      <name>Valerie Szudziejka</name>
+      <name>Lucas Utterback</name>
+      <name>Jason Yegge</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SENIOR3DARTIST]</title>
+      <name>Sergey Ivakhnenko Grey</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_ANIMATORBEHAVIOR]</title>
+      <name>Alex Azcona</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_LEVELDESIGNER]</title>
+      <name>Steve Young</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_BUILDESIGNER]</title>
+      <name>Dennis Dryden</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_ANIMATOR]</title>
+      <name>Toby Cochran</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_3DARTISTS]</title>
+      <name>Ryan Avis</name>
+      <name>James Davis</name>
+      <name>Matt Higgins</name>
+      <name>Ian Moriarty</name>
+      <name>Sylvia Rowland</name>
+      <name>Cody Wright</name>
+      <name>Daniel Kim</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_FXARTISTS]</title>
+      <name>William Kladis</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_CONCEPTARTISTS]</title>
+      <name>Peter Coene</name>
+      <name>Richard Tran</name>
+    </subsection>    
+    <subsection>
+      <title>%[UI_CREDITS_GRAPHICARTIST]</title>
+      <name>Ian Maghanoy</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_VIDEOPRODUCTION]</title>
+      <name>Warren Fligg</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SENIORPRODUCERCONTENT]</title>
+      <name>Erik Krebs</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_PRODGUICONCEPTFX]</title>
+      <name>Allen Eccles</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_ASSPROD]</title>
+      <name>L. LaRae Brim</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_ASSPROJMANAGER3DMOD]</title>
+      <name>Neil Huntley</name>
+    </subsection> 
+    <subsection>
+      <title>%[UI_CREDITS_PROJMAN]</title>
+      <name>Lisa Krebs</name>
+    </subsection>    
+    <subsection>
+      <title>%[UI_CREDITS_LDWARTIST]</title>
+      <name>Richard Vargas</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_WALCONCEPT]</title>
+      <name>Nathan Storm</name>
+    </subsection>
+    <subsection>
+     <title>%[UI_CREDITS_LOCPROD]</title>
+     <name>Markus Krichel</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_AUDIOLEAD]</title>
+      <name>John Hartman</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_FOCUSGROUP]</title>
+      <name>Andrew Leising</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_HRMAN]</title>
+      <name>DeeDee Hauptmann</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_ACCOUNTINGMANAGER]</title>
+      <name>Heather O'Grady</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_CORPORATEASSISTANT]</title>
+      <name>Andrew Rau</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SYSADMIN]</title>
+      <name>Bryan Reed</name>
+    </subsection>
+    <subsection>
+     <title>%[UI_CREDITS_SRMARKDIR]</title>
+     <name>Helle Winding</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_DESKSUPP]</title>
+      <name>James Bartlemay</name>
+    </subsection> 
+    <subsection>
+      <title>%[UI_CREDITS_WBLCOMMLIASON]</title>
+      <name>Brian Kidd</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_VP]</title>
+      <name>Henrik Taudorf Lorensen</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_QAMAN]</title>
+      <name>Jerome Strach</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_DIGMODDES]</title>
+      <name>Hans Burkhard Schlömer</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_QATESTERS]</title>
+      <name>Kenneth Gower</name>
+      <name>Kyle Williams</name>
+      <name>Rachael Bowen</name>
+      <name>Ben Monlezun</name>
+      <name>Scott Kalinger</name>
+      <name>Eric Denesia</name>
+      <name>Leo Prusakov</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_BLOCQACOORD]</title>
+      <name>Ronnie Hemmingsen</name>
+    </subsection>
+    <subsection> 
+      <title>%[UI_CREDITS_GERMLOC]</title>
+     <name>Britta Hoeljes</name>
+     <name>Franziska Mueller</name>
+     <name>Jana Piest</name>
+     <name>Stefan Weisenbacher</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_BSRPREMASTTECH]</title>
+      <name>Patrice Bennett</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_SRMANCS]</title>
+      <name>Dagmar Plocher</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_CONCDES]</title>
+      <name>Ian Nieves</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_BFQA]</title>
+      <name>Josué Jean</name>
+      <name>Howard Shinder</name>
+      <name>Jim Strankinga</name>
+      <name>Jon Berghammer</name>
+      <name>Kevin Pasztor</name>
+      <name>Linda Komsic</name>
+      <name>Max Délisle</name>
+      <name>Munsoor Khan</name>
+      <name>Phillip Conte</name>
+      <name>James Poston</name>
+      <name>Yurik Dumouchel Ross</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_BABELQAC]</title>
+      <name>Vincent Theriault</name>
+    </subsection>
+    <subsection>
+     <title>%[UI_CREDITS_PRODS]</title>
+     <name>Tine Markvad Vind</name>
+     <name>Christian Spliid</name>
+    </subsection>
+    <subsection>
+      <title>%[UI_CREDITS_ASSONLMARKMAN]</title>
+      <name>Per Burmeister</name>
+    </subsection>
+  </section>  
+  <section>
+    <title>%[UI_CREDITS_SPECTHANKS]</title>
+    <subsection>
+      <textBlock>%[UI_CREDITS_SPECIAL_LEGO]</textBlock>
+      <textBlock>%[UI_CREDITS_SPECIAL_FRIENDS]</textBlock>
+      <textBlock>%[UI_CREDITS_SPECIAL_TTGAMES]</textBlock>
+      <textBlock>%[UI_CREDITS_SPECIAL_CCP]</textBlock>
+      <textBlock>%[UI_CREDITS_SPECIAL_IBM]</textBlock>
+      <textBlock>%[UI_CREDITS_SPECIAL_HERMANN]</textBlock>
+      <textBlock>%[UI_CREDITS_SPECIAL_BILLPERRY]</textBlock>  
+      <textBlock>%[UI_CREDITS_SPECIAL_KENNYRUBIN]</textBlock>      
+      <textBlock>%[UI_CREDITS_SPECIAL_GENERIC]</textBlock>
+    </subsection>
+  </section>  
+<section>
+    <title>%[UI_CREDITS_ADDTHANKS]</title>
+    <subsection>
+      <name>Nicholas Alonge</name>
+      <name>Joseph Alread</name>
+      <name>Keith Baker</name>
+      <name>Christian Bidstrup</name>
+      <name>Brian Booker</name>
+      <name>Jeremy Brown</name>
+      <name>Curtis Coalson</name>
+      <name>Christopher Coster</name>
+      <name>Robert Culmer</name>
+      <name>Shawn Curtis</name>
+      <name>Christopher Floyd</name>
+      <name>Cole Eggen</name>
+      <name>Lisa Foster</name>
+      <name>Colin Gillespie</name>
+      <name>Jeremy Graston</name>
+      <name>Xander Guzman</name>
+      <name>Harold Hanlin</name>
+      <name>Flemming Hansen</name>
+      <name>Matt Harker</name>
+      <name>Catherine Harris</name>
+      <name>Jens Held-Hansen</name>
+      <name>Jonathan Hicks</name>
+      <name>Stig Salskov Iversen</name>
+      <name>Paul Jackson</name>
+      <name>Peter Hobolt Jensen</name>
+      <name>Lena Dixen Højland</name>
+      <name>Tanner Kalstrom</name>
+      <name>Dave Kang</name>
+      <name>Jørgen Vig Knudstorp</name>
+      <name>Sam Koch</name>
+      <name>Skip Kodak</name>
+      <name>Kevin da Luz</name>
+      <name>Nathan Madsen</name>
+      <name>Claus Toftegaard Matthiesen</name>
+      <name>Trent Martinez</name>
+      <name>Brenden Mecleary</name>
+      <name>Kerry McCullough</name>
+      <name>Darren McKinsey</name>
+      <name>Garrett Miller</name>
+      <name>Gregory Molnar</name>
+      <name>Jai Mukherjee</name>
+      <name>Mads Nipper</name>
+      <name>Luke Palmer</name>
+      <name>Fabien Papleux</name>
+      <name>Nicholas Perrone</name>
+      <name>Martin Prüss</name>
+      <name>Mitch Resnick</name>
+      <name>Terry Rosen</name>
+      <name>Lars Frisk Rossen</name>
+      <name>Brian Rouleau</name>
+      <name>Seth Russell</name>
+      <name>Daniel Russet</name>
+      <name>Chris Samaripa</name>
+      <name>Aldric Saucier</name>
+      <name>Lauren Seip</name>
+      <name>Steve Silver</name>
+      <name>Matt Shaffer</name>
+      <name>Lynn Taylor</name>
+      <name>Søren Toftgaard</name>
+      <name>Vinh Tran</name>
+      <name>Kristi Traynor</name>
+      <name>Justin Tripp</name>
+      <name>Steven Turco</name>
+      <name>Bryan Wiegele</name>
+      <name>Timothy Weisser</name>
+    </subsection>
+  </section>
+  <section>
+    <title>%[UI_CREDITS_INMEMORIAM]</title>
+    <subsection>
+      <name>Aaron Beck, 1972 – 2008</name>
+    </subsection>  
+  </section>
+</credits>
